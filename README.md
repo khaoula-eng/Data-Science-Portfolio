@@ -1,167 +1,126 @@
-# Data-Science-Portfolio
+# 📊 Data Science Portfolio
 
-Welcome to my Data Science Portfolio repository.  
-This repository showcases my projects, technical skills, and hands-on experience in **Data Science, Machine Learning, Deep Learning, Data Analytics, Business Intelligence, and Data Engineering**.
+Welcome to my **Data Science Portfolio** repository!  
 
-## About Me
+This repository showcases my practical work in **data science, machine learning, deep learning, computer vision, and predictive analytics**.  
+It reflects my ability to work with real-world datasets, extract insights, build models, evaluate results, and communicate findings clearly.
 
-I am a Computer Science Engineer with a strong interest in data-driven solutions.  
-My background combines data analysis, machine learning, business intelligence, big data, and cloud data engineering.
+---
 
-I have experience working with Python, SQL, Power BI, PySpark, Azure, Apache NiFi, and dashboarding tools to transform raw data into useful insights and predictive solutions.
+## 🚀 Repository Overview
 
-## Technical Skills
+The purpose of this repository is to demonstrate a complete **data science workflow**, from raw data to meaningful insights and predictive solutions.
 
-### Programming & Data Analysis
-- Python
-- SQL
-- Pandas
-- NumPy
+The work included in this portfolio covers different areas of data science, such as:
+
+- 🔍 Data exploration and analysis
+- 🧹 Data cleaning and preprocessing
+- 🛠️ Feature engineering
+- 🤖 Machine learning model development
+- 🧠 Deep learning model development
+- 👁️ Computer vision applications
+- 📈 Classification and regression problems
+- ✅ Model evaluation and performance improvement
+- 📊 Data visualization and result interpretation
+
+---
+
+## 🧩 Skills Demonstrated
+
+### 🔍 Data Analysis
+
 - Exploratory Data Analysis
 - Data Cleaning
 - Data Preprocessing
+- Missing Value Handling
+- Outlier Detection
+- Statistical Analysis
+- Data Interpretation
 
-### Data Visualization
-- Power BI
-- Excel
-- Matplotlib
-- Seaborn
-- Streamlit
-- Dashboards
-- Reporting
-- Data Storytelling
+### 🤖 Machine Learning
 
-### Machine Learning
+- Supervised Learning
 - Classification
-- Prediction
+- Regression
+- Predictive Modeling
 - Feature Engineering
 - Model Training
 - Model Evaluation
+- Hyperparameter Tuning
 
-### Deep Learning
+### 🧠 Deep Learning
+
 - Neural Networks
 - Convolutional Neural Networks
-- Image Classification
+- Image-Based Modeling
+- Model Optimization
+- Performance Evaluation
 
-### Big Data & Cloud
-- PySpark
-- Apache NiFi
-- Hadoop HDFS
-- Hive
-- HBase
-- Azure Storage Account
-- Azure Data Factory
-- Azure Databricks
-- Azure Synapse Analytics
+### 👁️ Computer Vision
 
-### Tools
-- Jupyter Notebook
-- Google Colab
-- Git
-- GitHub
+- Image Processing
+- Facial Feature Analysis
+- Object and Pattern Recognition
+- Visual Data Preprocessing
 
-## Projects
+### 📊 Data Visualization
 
-### 1. Fire Detection Using Deep Learning
-
-**Technologies:** Python, PySpark, CNN, Power BI, Streamlit
-
-This project focuses on fire detection using a Convolutional Neural Network model.  
-The objective is to classify images and detect fire situations using deep learning techniques.
-
-**Key Features:**
-- Developed a CNN model for fire detection
-- Achieved 97% accuracy
-- Processed data using PySpark
-- Created dashboards with Power BI and Streamlit
-- Visualized results for monitoring and decision-making
+- Data Storytelling
+- Trend Analysis
+- Feature Relationships
+- Model Performance Visualization
+- Clear Communication of Insights
 
 ---
 
-### 2. Data Cleaning and Exploratory Data Analysis
+## 🛠️ Tools & Technologies
 
-**Technologies:** Python, Pandas, NumPy, SQL, Jupyter Notebook
-
-This project focuses on preparing raw data for analysis and extracting useful insights through exploratory data analysis.
-
-**Key Features:**
-- Cleaned missing and duplicate data
-- Performed data preprocessing
-- Conducted exploratory data analysis
-- Used SQL for data extraction and analysis
-- Created visualizations to identify trends and patterns
-
----
-
-### 3. Business Intelligence Dashboard
-
-**Technologies:** Power BI, Excel, SQL
-
-This project demonstrates the creation of interactive dashboards to monitor business performance and key performance indicators.
-
-**Key Features:**
-- Built interactive Power BI dashboards
-- Created KPI reports
-- Analyzed business data
-- Designed clear data visualizations
-- Supported data-driven decision-making
+- 🐍 Python
+- 🐼 Pandas
+- 🔢 NumPy
+- 🤖 Scikit-learn
+- 🧠 TensorFlow / Keras
+- 📊 Matplotlib
+- 📈 Seaborn
+- 📓 Jupyter Notebook
+- 🌿 Git
+- 🐙 GitHub
 
 ---
 
-### 4. Predictive Machine Learning Model
+## 🔄 Data Science Workflow
 
-**Technologies:** Python, Pandas, Scikit-learn, Jupyter Notebook
+This repository follows a structured data science workflow:
 
-This project focuses on building a predictive machine learning model using historical data.
-
-**Key Features:**
-- Performed data preprocessing
-- Applied feature engineering
-- Trained machine learning models
-- Evaluated model performance
-- Interpreted results for business use
+1. 🎯 Understanding the problem
+2. 🔍 Exploring the dataset
+3. 🧹 Cleaning and preparing the data
+4. 📊 Performing exploratory data analysis
+5. 🛠️ Engineering useful features
+6. 🤖 Building machine learning or deep learning models
+7. ✅ Evaluating model performance
+8. 💡 Interpreting results
+9. 📝 Presenting insights clearly
 
 ---
 
-### 5. Data Pipeline and Analytics Project
+## 🎯 Objective
 
-**Technologies:** Apache NiFi, PySpark, Azure, Power BI
+The objective of this repository is to present my hands-on skills in **data science and machine learning** through practical projects.  
 
-This project combines data engineering and data science by creating a data pipeline for collecting, processing, analyzing, and visualizing data.
+It highlights my ability to analyze data, build predictive models, apply deep learning techniques, and communicate results in a clear and structured way.
 
-**Key Features:**
-- Designed ETL workflows
-- Orchestrated data pipelines using Apache NiFi
-- Processed large datasets using PySpark
-- Prepared data for analytics
-- Created dashboards for monitoring and insights
+---
 
-## Repository Structure
+## 👩‍💻 About Me
 
-```text
-data-science-portfolio/
-│
-├── README.md
-│
-├── projects/
-│   ├── fire-detection-deep-learning/
-│   ├── data-cleaning-eda/
-│   ├── business-intelligence-dashboard/
-│   ├── predictive-machine-learning-model/
-│   └── data-pipeline-analytics/
-│
-├── notebooks/
-│   ├── data_cleaning.ipynb
-│   ├── exploratory_data_analysis.ipynb
-│   ├── machine_learning_model.ipynb
-│   └── deep_learning_model.ipynb
-│
-├── dashboards/
-│   ├── powerbi_dashboard.pbix
-│   └── streamlit_app/
-│
-├── datasets/
-│   └── sample_dataset.csv
-│
-└── docs/
-    └── project_documentation.md
+I am a **Computer Science Engineer** interested in **Data Science, Machine Learning, Deep Learning, Artificial Intelligence, and Data Analytics**.
+
+This portfolio reflects my continuous learning and practical application of data-driven problem solving.
+
+---
+
+## 📬 Contact
+
+- 🐙 **GitHub:** [khaoula-eng](https://github.com/khaoula-eng)
+- ✉️ **Email:** [kelhafdaoui@gmail.com]
