@@ -1,4 +1,4 @@
-# 📊 Data Science Portfolio
+# 📊 AI Portfolio
 
 Welcome to my **Data Science Portfolio** repository!  
 
