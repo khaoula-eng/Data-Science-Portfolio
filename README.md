@@ -1,6 +1,6 @@
 # 📊 AI Portfolio
 
-Welcome to my **Data Science Portfolio** repository!  
+Welcome to my **AI Portfolio** repository!  
 
 This repository showcases my practical work in **data science, machine learning, deep learning, computer vision, and predictive analytics**.  
 It reflects my ability to work with real-world datasets, extract insights, build models, evaluate results, and communicate findings clearly.
